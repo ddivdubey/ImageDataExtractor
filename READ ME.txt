@@ -1,0 +1,10 @@
+#Discription:
+It is a Data Extractor which allow users to select a image and convert it into a pdf file and also extract the image data and print it
+
+#Nodejs packages used:
+express
+multer
+tesseract
+rimraf
+
+
